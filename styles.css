@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Thasadith:400,400i,700,700i');
+
+h1, p, input[placeholder] {
+    font-family: Thasadith, sans-serif;
+}
+
+p {
+    font-family: Thasadith, sans-serif;
+    font-weight: bold;
+}
